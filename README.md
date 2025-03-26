@@ -3,8 +3,8 @@
 I'm a student working on C++, system design, and building cool games and backend systems.
 
 ## 🔧 Projects
-- [Abyss Dropper](https://github.com/Shiki0/abyss-dropper)
-- [SHIKI: 2D Game](https://github.com/Shiki0/shiki)
+- [Abyss Dropper](https://github.com/Shiki0x/abyss-dropper)
+- [SHIKI: 2D Game](https://github.com/Shiki0x/SHIKI)
 
 ## 💡 What I'm Learning
 - C++, Data Structures & Algorithms
