@@ -8,7 +8,7 @@ I'm a student working on C++, system design, and building cool games and backend
 
 ## 💡 What I'm Learning
 - C++, Data Structures & Algorithms
-- Cloud infrastructure
+- Cloud Infrastructure
 - Distributed Systems
 
 
